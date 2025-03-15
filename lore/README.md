@@ -12,7 +12,7 @@ It was discovered that if you kill a creeper (making sure that it doesn't explod
 
 Experiments revealed that if you light this blastpowder on fire, it would explode, and the more blastpowder there was, the bigger the explosion would be. This simple fact revolutionised industry. Explosions were utilised everywhere - in mining operations, terraforming, even to cut trees.
 
-To match this enormous demand, pig-to-creeper conversion factories and labs were founded. Pigs would be mass bred, then converted into creepers, and killed. Their gunpowder would be harvested and sold.
+To match this enormous demand, pig-to-creeper conversion factories and labs were founded. Pigs would be mass bred, then converted into creepers, and killed. Their blastpowder would be harvested and sold.
 
 Eventually, a conglomerate known as the Blastpowder Company emerged above all other competitors. This was due to their existing supply of farm animals, as well as hiring some of the original scientists who discovered the creepers and blastpowder technology.
 
